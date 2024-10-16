@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://img.shields.io/badge/#61DAFB-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
 <!--
 **KyeongJooni/KyeongJooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
