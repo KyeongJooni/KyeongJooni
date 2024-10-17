@@ -44,6 +44,11 @@
 </div>
 
 <br>
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyeongJooni)](https://github.com/KyeongJooni/github-readme-stats)
+</div>
+
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
