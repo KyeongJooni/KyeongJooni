@@ -4,6 +4,12 @@
 </div>
 
 <!--내용 부분-->
+<h3 align="center">📌 About Me 📌 </h3>
+<p align="center">🔍이경준(2001.02.24)</p>
+<p align="center">🔍가천대학교 재학(Gachon Unibersity)</p>
+<p align="center">🔍컴퓨터공학전공 (Computer Engineering)</p>
+<p align="center">🔍프론트엔드 개발자(Front-End Developer)</p>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=flat-sqaure&logo=javascript&logoColor=white" />&nbsp
@@ -45,7 +51,13 @@
 
 <br>
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyeongJooni)](https://github.com/KyeongJooni/github-readme-stats)
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+  
+  <br>
+  <br>
+  
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=nord&hide_border=true" /></a>
+
 </div>
 
 <br>
