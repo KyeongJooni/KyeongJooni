@@ -10,6 +10,12 @@
 <p align="center">🔍컴퓨터공학전공 (Computer Engineering)</p>
 <p align="center">🔍프론트엔드 개발자(Front-End Developer)</p>
 
+<div align="center">
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="43%" src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" alt="KyeongJoon's github stats" /></a>
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" /></a>
+
+</div>
+
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -49,17 +55,6 @@
 
 <h3 align="center">💳 CERTIFICATE 💳</h3>
 <div align="center"> SQLD(SQL 개발자)
-</div>
-
-<br>
-<div align="center">
-<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-  
-  <br>
-  <br>
-  
-<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=nord&hide_border=true" /></a>
-
 </div>
 
 <br>
