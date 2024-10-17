@@ -30,7 +30,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-sqaure&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=flat-sqaure&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-sqaure&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
