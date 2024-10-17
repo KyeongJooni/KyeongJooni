@@ -49,9 +49,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://instagram.com/l_k_joon/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-sqaure&logo=Instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-sqaure&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:rudwns0224@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-sqaure&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-sqaure&logo=gmail&logoColor=white"/></a>
 </div>
