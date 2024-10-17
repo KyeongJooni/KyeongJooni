@@ -10,6 +10,8 @@
 <p align="center">🔍컴퓨터공학전공 (Computer Engineering)</p>
 <p align="center">🔍프론트엔드 개발자(Front-End Developer)</p>
 
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=flat-sqaure&logo=javascript&logoColor=white" />&nbsp
