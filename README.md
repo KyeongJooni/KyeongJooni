@@ -22,35 +22,35 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=flat-sqaure&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/PYTHON-1daabb.svg?style=flat-sqaure&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PYTHON-1daabb.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-sqaure&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-sqaure&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-sqaure&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=flat-sqaure&logo=react&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-sqaure&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-sqaure&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-sqaure&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-sqaure&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -64,7 +64,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://instagram.com/l_k_joon/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-sqaure&logo=Instagram&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:rudwns0224@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-sqaure&logo=gmail&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
