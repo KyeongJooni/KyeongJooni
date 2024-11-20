@@ -8,7 +8,7 @@
 <p align="center">🔍 이경준(2001.02.24)</p>
 <p align="center">🔍 가천대학교 재학(Gachon University)</p>
 <p align="center">🔍 컴퓨터공학전공 (Computer Science&Engineering Major)</p>
-<p align="center">🔍 프론트엔드 개발자(Front-End Developer)</p>
+<!--<p align="center">🔍 프론트엔드 개발자(Front-End Developer)</p>-->
 
 <br>
 
