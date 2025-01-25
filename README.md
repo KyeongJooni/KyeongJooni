@@ -56,7 +56,7 @@
 <br>
 
 <h3 align="center">💳 CERTIFICATE 💳</h3>
-<div align="center"> SQLD(SQL 개발자)
+<div align="center">
 </div>
 
 <br>
