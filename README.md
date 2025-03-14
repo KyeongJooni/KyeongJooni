@@ -6,15 +6,17 @@
 <!--내용 부분-->
 <h3 align="center">📌 About Me 📌 </h3>
 <p align="center">🔍 이경준(2001.02.24)</p>
-<p align="center">🔍 가천대학교 재학(Gachon University)</p>
+<p align="center">🔍 가천대학교(Gachon University) 2020 ~ </p>
 <p align="center">🔍 컴퓨터공학전공 (Computer Science&Engineering Major)</p>
+<p align="center">🔍 가천대학교 개발동아리 KKSC 2기 2024.08 ~ 2025.02</p>
+<p align="center">🔍 카카오엔터프라이즈 SW아카데미(KEA) 2025.03 ~ </p>
 <!--<p align="center">🔍 프론트엔드 개발자(Front-End Developer)</p>-->
 
 <br>
 
 <div align="center">
-<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="63%" src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" alt="KyeongJoon's github stats" /></a>
-<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" /></a>
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="55%" src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" alt="KyeongJoon's github stats" /></a>
+<a href="https://github.com/KyeongJooni"><img align="center" style="height:180px" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" /></a>
 </div>
 
 <br>
