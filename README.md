@@ -54,6 +54,6 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:rudwns0224@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://abstracted-gold-e14.notion.site/18500b6571a8803a9a3cdaee20f1f876?pvs=4">
+  <a href="https://kyeongjooni.notion.site/18500b6571a8803a9a3cdaee20f1f876?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
