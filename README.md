@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left">✨ Skill ✨</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
