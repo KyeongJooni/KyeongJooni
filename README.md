@@ -8,6 +8,7 @@
 <p align="left">🔍 이경준(2001.02.24)</p>
 <p align="left">🔍 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) 2020 ~ </p>
 <p align="left">🔍 가천대학교 IT동아리 KKSC 2기 2024.08 ~ 2025.02</p>
+<p align="left">🔍 한국지질자원연구원 일용직 연구원 2023, 2024 </p>
 <p align="left">🔍 카카오엔터프라이즈 SW아카데미 6기(KEA) 2025.03 ~ </p>
 <!--<p align="center">🔍 프론트엔드 개발자(Front-End Developer)</p>-->
 
