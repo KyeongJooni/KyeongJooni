@@ -73,11 +73,11 @@
 </div>
 <br>
 
-<h3 align="left">💳 CERTIFICATE 💳</h3>
+<!--<h3 align="left">💳 CERTIFICATE 💳</h3>
 <div align="left">
 </div>
 
-<br>
+<br>-->
 
 <h3 align="left">📮 Connect 📮</h3>
 <div align="left">
