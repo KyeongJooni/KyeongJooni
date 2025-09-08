@@ -6,7 +6,7 @@
 <!--내용 부분-->
 <h3 align="left">📌 About Me 📌 </h3>
 <p align="left">🔍 이경준(2001.02.24)</p>
-<p align="left">🔍 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) - 2020 ~ 2026.02 졸업예정 </p>
+<p align="left">🔍 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) - 2020.03 ~ 2026.02 졸업예정 </p>
 <p align="left">🔍 가천대학교 IT동아리 KKSC 2기 - 2024.09 ~ 2025.01</p>
 <p align="left">🔍 한국지질자원연구원 일용직 연구원 - 2022.10 ~ 2023.02 </p>
 <p align="left">🔍 카카오엔터프라이즈 SW아카데미 6기(KEA) - 2025.03 ~ 2025.08 </p>
