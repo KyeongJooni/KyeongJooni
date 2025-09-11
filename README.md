@@ -10,7 +10,7 @@
 <p align="left">🔍 가천대학교 IT동아리 KKSC 2기 - 2024.09 ~ 2025.01</p>
 <p align="left">🔍 한국지질자원연구원 일용직 연구원 - 2022.10 ~ 2023.02 </p>
 <p align="left">🔍 카카오엔터프라이즈 SW아카데미 6기(KEA) - 2025.03 ~ 2025.08 </p>
-<p align="left">🔍 픽셀로(pixelRo) 개발팀 / 어플리케이션 제품 기획 및 개발, 유지보수 인턴 - 2025.09 ~ </p>
+<p align="left">🔍 픽셀로(pixelRo) Web Frontend Developer Intern - 2025.09 ~ </p>
 <!--<p align="center">🔍 프론트엔드 개발자(Front-End Developer)</p>-->
 
 <br>
