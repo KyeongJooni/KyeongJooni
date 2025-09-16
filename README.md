@@ -100,5 +100,7 @@
   <a href="https://kyeongjooni.notion.site/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
   <a href="mailto:rudwns0224@gachon.ac.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
+  <a href="https://rudwns0224.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white"></a>
 </div>
