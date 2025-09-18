@@ -18,12 +18,12 @@
 <div align="left">
   <a href="https://github.com/KyeongJooni">
     <img align="center" style="height:180px" width="54%" 
-         src="github-readme-stats-phi-peach-64.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" 
+         src="https://github-readme-stats-phi-peach-64.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" 
          alt="KyeongJoon's github stats" />
   </a>
   <a href="https://github.com/KyeongJooni">
     <img align="center" style="height:180px" width="36%" 
-         src="github-readme-stats-phi-peach-64.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" 
+         src="https://github-readme-stats-phi-peach-64.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" 
          alt="Top Languages" />
   </a>
 </div>
