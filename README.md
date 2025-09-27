@@ -17,8 +17,8 @@
 
 <p align="left">
     <!--<img src="https://github-readme-stats-roan-theta-16.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="180px" alt="KyeongJoon's github stats" />-->
-  <img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="175px" alt="GitHub Stats"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="36%" height="250px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="180px" alt="GitHub Stats"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="40%"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
 </p>
 
