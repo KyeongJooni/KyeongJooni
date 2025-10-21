@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:rudwns0224@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
-  <a href="https://kyeongjooni.notion.site/portfolio">
+  <a href="https://kyeongjooni.notion.site/18500b6571a8803a9a3cdaee20f1f876?source=copy_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
   <a href="https://www.linkedin.com/in/kyeongjooni">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
