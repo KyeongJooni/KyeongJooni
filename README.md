@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<h3 align="left">✨ Main ✨</h3>
+<h3 align="left">💫 Core 💫</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -41,7 +41,7 @@
 </div>
 <br>
 
-<h3 align="left">💫 Sub 💫</h3>
+<h3 align="left">🛠️ Experienced 🛠️</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -52,7 +52,7 @@
 </div>
 <br>
 
-<h3 align="left">💫 Minor 💫</h3>
+<h3 align="left">🧩 Used 🧩</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Dart-DC322F?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
@@ -62,7 +62,7 @@
 </div>
 <br>
 
-<h3 align="left">📖 Studying 📖</h3>
+<h3 align="left">📖 Learning 📖</h3>
 <div align="left">
   <!--<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp-->
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
