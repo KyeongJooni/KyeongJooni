@@ -23,7 +23,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="left">💫 Core 💫</h3>
 <div align="left">
