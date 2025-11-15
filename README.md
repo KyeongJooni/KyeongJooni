@@ -42,7 +42,7 @@
 </div>
 <br>
 
-<h3 align="left">🛠️ Experienced 🛠️</h3>
+<h3 align="left">🛠️ Proficient 🛠️</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
