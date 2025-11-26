@@ -56,7 +56,6 @@
 
 <h3 align="left">🧩 Used 🧩</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />&nbsp
   <!--<img src="https://img.shields.io/badge/Dart-DC322F?style=for-the-badge&logo=dart&logoColor=white" />&nbsp-->
@@ -75,6 +74,7 @@
 <h3 align="left">📖 Learning 📖</h3>
 <div align="left">
   <!--<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp-->
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />&nbsp
