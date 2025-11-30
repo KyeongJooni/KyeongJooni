@@ -39,7 +39,6 @@
 
 <br>
 
-<!--<h3 align="left">🛠️ Proficient 🛠️</h3>-->
 <h3 align="left">🛠️ Skilled 🛠️</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp
