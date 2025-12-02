@@ -8,6 +8,7 @@
 <p align="left"> 프론트엔드 개발자(FrontEnd Developer)
 
 <br>
+<br>
 
 <h3 align="left">✏️ Education ✏️ </h3>
 <p align="left"> 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) - 2020.03 ~ 2026.02 졸업예정 </p>
