@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="left">🔍 Expreience 🔍 </h3>
+<h3 align="left">🔍 Experience 🔍 </h3>
 <p align="left"> 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p>
 <p align="left"> 가천대학교 IT동아리 KKSC 2기 FE - 2024.09 ~ 2025.01</p>
 <p align="left"> 가천대학교 IT 학술동아리 Leets 6기 FE - 2025.09 ~ </p>
