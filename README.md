@@ -4,20 +4,13 @@
 </div>
 
 <!--내용 부분-->
-### 📌 About Me 📌
-- 프론트엔드 개발자(FrontEnd Developer)
+## 안녕하세요 프론트엔드 개발자 이경준입니다 👋
 
-<br>
-
-### ✏️ Education ✏️
+### 📌 About me 📌
 - 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) - 2020.03 ~ 2026.02 졸업예정 </p>
-- 카카오엔터프라이즈 SW 아카데미 6기(KEA) - 2025.03 ~ 2025.08 </p>
-
-<br>
-
-### 🔍 Experience 🔍
 - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p>
 - 가천대학교 IT동아리 KKSC 2기 FE - 2024.09 ~ 2025.01</p>
+- 카카오엔터프라이즈 SW 아카데미 6기(KEA) - 2025.03 ~ 2025.08 </p>
 - 가천대학교 IT 학술동아리 Leets 6기 FE - 2025.09 ~ </p>
 <!--<p align="left"> 픽셀로(pixelRo) Frontend Developer Intern - 2025.09 ~ </p>-->
 <!--<p align="center"> 프론트엔드 개발자(Front-End Developer)</p>-->
