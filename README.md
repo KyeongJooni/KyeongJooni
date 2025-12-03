@@ -75,7 +75,7 @@
 <h3 align="left">📖 Learning 📖</h3>
 <div align="left">
   <!--<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp-->
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp
   <!--<img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />&nbsp-->
