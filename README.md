@@ -22,8 +22,8 @@
   <!--<img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>-->
 <img
   src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="540"
-  height="170"
+  width="54%"
+  height="180"
 />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
