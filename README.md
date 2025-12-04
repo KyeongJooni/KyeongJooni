@@ -23,7 +23,7 @@
 <img
   src="https://render.gitanimals.org/farms/KyeongJooni"
   width="54%"
-  height="175"
+  height="170"
 />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
