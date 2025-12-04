@@ -22,7 +22,7 @@
   <!--<img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>-->
 <img
   src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="540"
+  width="54%"
   height="200"
 />
 </a>
