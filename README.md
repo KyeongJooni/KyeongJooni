@@ -8,8 +8,8 @@
 
 <img
   src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="600"
-  height="300"
+  width="550"
+  height="250"
 />
 
 ### 📌 About me 📌
