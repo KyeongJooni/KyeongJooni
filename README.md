@@ -6,6 +6,12 @@
 <!--내용 부분-->
 ## 안녕하세요 프론트엔드 개발자 이경준입니다 👋
 
+<img
+  src="https://render.gitanimals.org/farms/KyeongJooni"
+  width="600"
+  height="300"
+/>
+
 ### 📌 About me 📌
 - 가천대학교 컴퓨터공학전공(Computer Science&Engineering Major) - 2020.03 ~ 2026.02 졸업예정 </p>
 - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p>
@@ -19,13 +25,9 @@
 
 <p align="left">
     <!--<img src="https://github-readme-stats-roan-theta-16.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="180px" alt="KyeongJoon's github stats" />-->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>-->
-<img
-  src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="600"
-  height="170"
-/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="37%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>
+
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
 </p>
 
