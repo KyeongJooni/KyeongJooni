@@ -23,7 +23,7 @@
 <img
   src="https://render.gitanimals.org/farms/KyeongJooni"
   width="54%"
-  height="200"
+  height="170"
 />
 </a>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
