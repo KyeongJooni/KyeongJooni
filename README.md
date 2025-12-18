@@ -18,7 +18,7 @@
 - 가천대학교 IT동아리 KKSC 2기 FE - 2024.09 ~ 2025.01</p>
 - 카카오엔터프라이즈 SW 아카데미 6기(KEA) - 2025.03 ~ 2025.08 </p>
 - 가천대학교 IT 학술동아리 Leets 6기 FE - 2025.09 ~ </p>
-<!--<p align="left"> 픽셀로(pixelRo) Frontend Developer Intern - 2025.09 ~ </p>-->
+- 픽셀로(pixelRo) Frontend Developer Intern - 2025.09 ~ 2025.12 </p>
 <!--<p align="center"> 프론트엔드 개발자(Front-End Developer)</p>-->
 
 <br>
