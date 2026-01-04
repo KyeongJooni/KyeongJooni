@@ -13,7 +13,7 @@
 />
 
 ### 📌 About me 📌
-- Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02 prospective graduate </p>
+- Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>
 <!-- - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p> -->
 - Gachon University IT Club KKSC 2th FE - 2024.09 ~ 2025.01</p>
 - Kakao Enterprise SW Academy 6th - 2025.03 ~ 2025.08 </p>
