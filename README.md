@@ -5,33 +5,6 @@
 
 <!--내용 부분-->
 ## Hi, I'm Frontend Developer KyeongJooni 👋
-
-<img
-  src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="580"
-  height="280"
-/>
-
-<!-- ### 📌 About me 📌-->
-<!-- - Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>-->
-<!-- - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p> -->
-<!-- - Gachon University IT Club KKSC 2th FE - 2024.09 ~ 2025.01</p>-->
-<!-- - Kakao Enterprise SW Academy 6th - 2025.03 ~ 2025.08 </p>-->
-<!-- - Pixelro Frontend Developer Intern - 2025.09 ~ 2025.12 </p>-->
-<!-- - Gachon University IT Academic Club Leets 6th FE - 2025.09 ~ </p>-->
-
-<!--<p align="center"> 프론트엔드 개발자(Front-End Developer)</p>-->
-
-<br>
-
-<p align="left">
-    <!--<img src="https://github-readme-stats-roan-theta-16.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="KyeongJoon's github stats" />-->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
-</p>
-
 <h3 align="center">💫 Skill 💫</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
@@ -53,6 +26,34 @@
   <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />&nbsp
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+</div>
+
+<!-- ### 📌 About me 📌-->
+<!-- - Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>-->
+<!-- - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p> -->
+<!-- - Gachon University IT Club KKSC 2th FE - 2024.09 ~ 2025.01</p>-->
+<!-- - Kakao Enterprise SW Academy 6th - 2025.03 ~ 2025.08 </p>-->
+<!-- - Pixelro Frontend Developer Intern - 2025.09 ~ 2025.12 </p>-->
+<!-- - Gachon University IT Academic Club Leets 6th FE - 2025.09 ~ </p>-->
+
+<!--<p align="center"> 프론트엔드 개발자(Front-End Developer)</p>-->
+
+<br>
+
+<p align="left">
+    <!--<img src="https://github-readme-stats-roan-theta-16.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="KyeongJoon's github stats" />-->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>
+
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
+</p>
+
+<div align="center">
+  <img
+  src="https://render.gitanimals.org/farms/KyeongJooni"
+  width="580"
+  height="280"
+  />
 </div>
 
 <!--<h3 align="left">🛠️ Skilled 🛠️</h3>-->
