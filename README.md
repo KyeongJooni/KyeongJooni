@@ -32,8 +32,8 @@
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
 </p>
 
-<h3 align="left">💫 Skill 💫</h3>
-<div align="left">
+<h3 align="center">💫 Skill 💫</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -102,14 +102,14 @@
   <!--<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />&nbsp-->
 </div>
 
-<h3 align="left">💼 Work Tool 💼</h3>
+<!--<h3 align="left">💼 Work Tool 💼</h3>-->
 <div align="left">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
+  <!--<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp-->
+  <!--<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp-->
+  <!--<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp-->
   <!--<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" />&nbsp-->
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp-->
+  <!--<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />-->
 </div>
 
 <!--<h3 align="left">💳 CERTIFICATE 💳</h3>
@@ -118,20 +118,20 @@
 
 <br>-->
 
-## 
+<!--## -->
 
-<h3 align="left">📮 Connect 📮</h3>
+<!--<h3 align="left">📮 Connect 📮</h3>-->
 <div align="left">
-  <a href="https://instagram.com/l_k_joon/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:rudwns0224@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
-  <a href="https://kyeongjooni.notion.site/18500b6571a8803a9a3cdaee20f1f876?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp
-  <a href="https://www.linkedin.com/in/kyeongjooni">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
+  <!--<a href="https://instagram.com/l_k_joon/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp-->
+  <!--<a href="mailto:rudwns0224@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp-->
+  <!--<a href="https://kyeongjooni.notion.site/18500b6571a8803a9a3cdaee20f1f876?source=copy_link">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>&nbsp-->
+  <!--<a href="https://www.linkedin.com/in/kyeongjooni">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp-->
   <!--<a href="mailto:rudwns0224@gachon.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp-->
-  <a href="https://rudwns0224.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white"></a>
+  <!--<a href="https://rudwns0224.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5A00?style=for-the-badge&logo=tistory&logoColor=white"></a>-->
 </div>
