@@ -12,13 +12,13 @@
   height="280"
 />
 
-### 📌 About me 📌
-- Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>
+<!-- ### 📌 About me 📌-->
+<!-- - Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>-->
 <!-- - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p> -->
-- Gachon University IT Club KKSC 2th FE - 2024.09 ~ 2025.01</p>
-- Kakao Enterprise SW Academy 6th - 2025.03 ~ 2025.08 </p>
-- Pixelro Frontend Developer Intern - 2025.09 ~ 2025.12 </p>
-- Gachon University IT Academic Club Leets 6th FE - 2025.09 ~ </p>
+<!-- - Gachon University IT Club KKSC 2th FE - 2024.09 ~ 2025.01</p>-->
+<!-- - Kakao Enterprise SW Academy 6th - 2025.03 ~ 2025.08 </p>-->
+<!-- - Pixelro Frontend Developer Intern - 2025.09 ~ 2025.12 </p>-->
+<!-- - Gachon University IT Academic Club Leets 6th FE - 2025.09 ~ </p>-->
 
 <!--<p align="center"> 프론트엔드 개발자(Front-End Developer)</p>-->
 
