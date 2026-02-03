@@ -6,8 +6,7 @@
 <!--내용 부분-->
 ## Hi, I'm Frontend Developer KyeongJooni 👋
 
-<br>
-
+<h3 align="center">Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
