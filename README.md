@@ -4,55 +4,82 @@
 </div>-->
 <!--내용 부분-->
 ## Hi, I'm Frontend Developer KyeongJooni 👋
-<h3 align="left">Tech Stack </h3>
-<div align="left">
-  <h4 align="left">Core</h4>
-  <!-- Core -->
+<h3 align="center">Tech Stack </h3>
+<p align="center">
+  <!-- Visible -->
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
-  <h4 align="left">Styling</h4>
-<!-- Styling (CSS + Component Library) -->
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Vanilla%20extract-F786AD?style=for-the-badge&logo=Vanilla%20extract&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" />&nbsp;
-  <h4 align="left">State & Data + Form</h4>
-<!-- State & Data + Form -->
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" />&nbsp;
-<!-- UI / Visualization -->
-  <h4 align="left">UI / Visualiztion</h4>
-  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />&nbsp;
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp;
-<!-- Tooling / Monorepo -->
-  <h4 align="left">Tooling</h4>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />&nbsp;
-  <img src="https://img.shields.io/badge/Turborepo-%230F0813.svg?style=for-the-badge&logo=Turborepo&logoColor=white" />&nbsp;
-<!-- Testing -->
-  <h4 align="left">Testing</h4>
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />&nbsp;
-  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />&nbsp;
   <img src="https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;
-<!-- DevOps / Hosting -->
-  <h4 align="left">DevOps</h4>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900?style=for-the-badge&logo=amazoncloudfront&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
-</div>
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />&nbsp;
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20CloudFront-FF9900?style=for-the-badge&logo=amazoncloudfront&logoColor=white" />&nbsp;
+</p>
+
+<details>
+  <summary><b>More</b></summary>
+
+  <br />
+
+  <p align="center">
+    <!-- UI / Visualization -->
+    <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />&nbsp;
+    <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp;
+  </p>
+
+  <p align="center">
+    <!-- Styling / UI Libs -->
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Vanilla%20extract-F786AD?style=for-the-badge&logo=Vanilla%20extract&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" />&nbsp;
+  </p>
+
+  <p align="center">
+    <!-- Form -->
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" />&nbsp;
+  </p>
+
+  <p align="center">
+    <!-- Tooling / Monorepo -->
+    <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />&nbsp;
+    <img src="https://img.shields.io/badge/Turborepo-%230F0813.svg?style=for-the-badge&logo=Turborepo&logoColor=white" />&nbsp;
+  </p>
+
+  <p align="center">
+    <!-- Testing (extra) -->
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />&nbsp;
+  </p>
+
+  <p align="center">
+    <!-- Hosting (extra) -->
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />&nbsp;
+    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
+  </p>
+</details>
+
+  
 <!-- ### 📌 About me 📌-->
 <!-- - Gachon University Computer Science & Engineering Major - 2020.03 ~ 2026.02(prospective graduate) </p>-->
 <!-- - 한국지질자원연구원 일용직 연구원 - 2022.11 ~ 2023.02 </p> -->
