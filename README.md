@@ -1,11 +1,9 @@
-![image](https://github.com/user-attachments/assets/c12796aa-323e-4331-964a-42effb681f45)<!--타이틀 부분-->
+<!--![image](https://github.com/user-attachments/assets/c12796aa-323e-4331-964a-42effb681f45)--><!--타이틀 부분-->
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=989898&height=150&section=header&text=KyeongJoon's&#160;GitHub&fontSize=68&fontColor=147bb7" />
 </div>-->
-
 <!--내용 부분-->
 ## Hi, I'm Frontend Developer KyeongJooni 👋
-
 <h3 align="center">Tech Stack </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
