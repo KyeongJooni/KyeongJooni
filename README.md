@@ -14,8 +14,9 @@
 <br>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
 <br>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />&nbsp;
@@ -31,9 +32,7 @@
 
 <details>
   <summary><b>More</b></summary>
-
   <br />
-
   <div align=center>
     <!-- Styling / UI Libs -->
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
@@ -49,6 +48,8 @@
     <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />&nbsp;
     <br>
     <!-- Tooling / Monorepo -->
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />&nbsp;
     <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" />&nbsp;
     <img src="https://img.shields.io/badge/Turborepo-%230F0813.svg?style=for-the-badge&logo=Turborepo&logoColor=white" />&nbsp;
     <br>
