@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=989898&height=150&section=header&text=KyeongJoon's&#160;GitHub&fontSize=68&fontColor=147bb7" />
 </div>-->
 <!--내용 부분-->
-## Hi, I'm Frontend Developer KyeongJooni 👋
+## Hi, I'm Frontend Engineer KyeongJooni 👋
 <h3 align="center">Tech Stack </h3>
 <div align="center">
   <!-- Visible -->
