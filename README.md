@@ -92,11 +92,9 @@
 </p>
 
 <div align="center">
-  <img
-  src="https://render.gitanimals.org/farms/KyeongJooni"
-  width="580"
-  height="280"
-  />
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/KyeongJooni" width="580" height="280" />
+</a>
 </div>
 
 <!--<h3 align="center">💫 Skill 💫</h3>-->
