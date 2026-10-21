@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
 <br>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;
+  <!--<img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;-->
   <img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
