@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
 <br>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vanilla%20extract-F786AD?style=for-the-badge&logo=Vanilla%20extract&logoColor=white" />&nbsp;
   <!--<img src="https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Context%20API-000000?style=for-the-badge&logo=react&logoColor=white" />&nbsp;-->
   <!--<img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white" />&nbsp;-->
@@ -38,7 +39,7 @@
     <!-- Styling / UI Libs -->
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;
-    <img src="https://img.shields.io/badge/Vanilla%20extract-F786AD?style=for-the-badge&logo=Vanilla%20extract&logoColor=white" />&nbsp;
+    
     <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" />&nbsp;
     <br>
     <!-- Form -->
