@@ -84,16 +84,19 @@
 
 <p align="left">
     <!--<img src="https://github-readme-stats-roan-theta-16.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="KyeongJoon's github stats" />-->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KyeongJooni&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&hide=contribs" width="54%" height="200px" alt="GitHub Stats"/>
 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rudwns0224" width="41%"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongJooni&layout=compact&theme=algolia&hide_border=true" width="36%" height="180px" alt="Top Langs"/>-->
 </p>
 
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/KyeongJooni" width="580" height="280" />
-</a>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=KyeongJooni&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/KyeongJooni"
+  width="600"
+  height="300"
+/>
 </div>
 
 <!--<h3 align="center">💫 Skill 💫</h3>-->
